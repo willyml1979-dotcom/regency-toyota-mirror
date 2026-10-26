@@ -1,6 +1,6 @@
 {
   "dealership": "Regency Toyota",
-  "generated_at": "2026-10-25T15:54:21",
+  "generated_at": "2026-10-26T01:13:18",
   "vehicle_count": 369,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2321,7 +2321,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Toyota Corolla L",
+      "name": "2013 Toyota Corolla CE",
       "vin": "2T1BU4EE3DC037919",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/7c82e7774f8d.html",
       "year": 2013,
@@ -2493,7 +2493,7 @@
       "make": "Lexus",
       "model": "Lexus IS",
       "condition": "used",
-      "price": 32398.0,
+      "price": 31998.0,
       "price_currency": "CAD"
     },
     {
@@ -2735,7 +2735,7 @@
       "make": "Mazda",
       "model": "Mazda3",
       "condition": "used",
-      "price": 26398.0,
+      "price": 25398.0,
       "price_currency": "CAD"
     },
     {
