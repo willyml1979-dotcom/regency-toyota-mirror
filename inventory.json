@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Toyota",
-  "generated_at": "2026-10-26T01:24:56",
-  "vehicle_count": 370,
+  "generated_at": "2026-10-26T09:39:51",
+  "vehicle_count": 369,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -2842,7 +2842,7 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 24998.0,
+      "price": 24398.0,
       "price_currency": "CAD"
     },
     {
@@ -2864,7 +2864,7 @@
       "make": "Lexus",
       "model": "UX",
       "condition": "used",
-      "price": 42998.0,
+      "price": 42398.0,
       "price_currency": "CAD"
     },
     {
@@ -2930,7 +2930,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "used",
-      "price": 29398.0,
+      "price": 28398.0,
       "price_currency": "CAD"
     },
     {
@@ -2963,7 +2963,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 47398.0,
+      "price": 46998.0,
       "price_currency": "CAD"
     },
     {
@@ -3099,17 +3099,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Toyota Corolla Cross Hybrid SE AWD",
-      "vin": "7MUFBABG4SV073804",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/45120e6e424a.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "Corolla Cross Hybrid",
-      "condition": "used",
-      "price": 41493.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Toyota RAV4 XLE AWD",
       "vin": "2T3R1RFV1SC550707",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/2d38d44a6f57.html",
@@ -3205,7 +3194,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 38998.0,
+      "price": 38398.0,
       "price_currency": "CAD"
     }
   ]
