@@ -1,6 +1,6 @@
 {
   "dealership": "Regency Toyota",
-  "generated_at": "2026-10-26T09:39:51",
+  "generated_at": "2026-10-26T09:55:02",
   "vehicle_count": 369,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -743,6 +743,14 @@
     },
     {
       "name": "Toyota2026 RAV4 Hybrid XLE Premium",
+      "vin": "2T36CRAV6TW104251",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/e809d05f68f2.html",
+      "condition": "new",
+      "price": 46583.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota2026 RAV4 Hybrid XLE Premium",
       "vin": "2T36CRAV9TW104227",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/08c9137fc56c.html",
       "condition": "new",
@@ -1131,6 +1139,14 @@
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/bb3e64829535.html",
       "condition": "new",
       "price": 55943.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota2027 BZ XLE AWD",
+      "vin": "JTMADAFB2VA016533",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/136f2ffb768f.html",
+      "condition": "new",
+      "price": 56293.0,
       "price_currency": "CAD"
     },
     {
@@ -1878,14 +1894,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Toyota2027 BZ XLE AWD",
-      "vin": "JTMADAFB8VA017377",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/b486b3795a53.html",
-      "condition": "new",
-      "price": 56319.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Toyota2027 Corolla Hatchback SE",
       "vin": "JTNK4MBE0V3278864",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/baa6643ca36b.html",
@@ -2155,14 +2163,6 @@
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/28a64aa2e8a2.html",
       "condition": "new",
       "price": 57373.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2027 Prius Plug-in Hybrid XSE PREMIUM",
-      "vin": "JTDACACU5V3089215",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/4d061843713d.html",
-      "condition": "new",
-      "price": 51279.0,
       "price_currency": "CAD"
     },
     {
