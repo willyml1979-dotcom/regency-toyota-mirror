@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Toyota",
-  "generated_at": "2026-10-26T01:13:18",
-  "vehicle_count": 369,
+  "generated_at": "2026-10-26T01:24:56",
+  "vehicle_count": 370,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -375,6 +375,14 @@
     },
     {
       "name": "Toyota2027 Prius Plug-in Hybrid SE",
+      "vin": "JTDACACU9V3085264",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/4e449904b155.html",
+      "condition": "new",
+      "price": 43548.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota2027 Prius Plug-in Hybrid SE",
       "vin": "JTDACACU5V3085388",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/78f7febbcfff.html",
       "condition": "new",
@@ -403,6 +411,14 @@
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/4de5f6d22614.html",
       "condition": "new",
       "price": 63386.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota2027 Prius Plug-in Hybrid SE",
+      "vin": "JTDACACU6V3085786",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/835b65520cda.html",
+      "condition": "new",
+      "price": 43548.0,
       "price_currency": "CAD"
     },
     {
@@ -723,14 +739,6 @@
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/60514405bcd1.html",
       "condition": "new",
       "price": 60319.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 RAV4 Hybrid XLE Premium",
-      "vin": "2T36CRAV6TW104251",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/e809d05f68f2.html",
-      "condition": "new",
-      "price": 46583.0,
       "price_currency": "CAD"
     },
     {
@@ -1126,14 +1134,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Toyota2027 BZ XLE AWD",
-      "vin": "JTMADAFB2VA016533",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/136f2ffb768f.html",
-      "condition": "new",
-      "price": 56293.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Toyota2027 C-HR XSE",
       "vin": "JTMAAAAD7VJ031028",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/23632c1c2c44.html",
@@ -1202,7 +1202,7 @@
       "vin": "17656710000000000",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/1e6aa6c06b8f.html",
       "condition": "new",
-      "price": 0.0,
+      "price": 52859.0,
       "price_currency": "CAD"
     },
     {
@@ -1734,11 +1734,11 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Toyota2026 RAV4 Hybrid XLE",
-      "vin": "2T36CRAV7TW121057",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/4df5e5ac3c7f.html",
+      "name": "Toyota2026 Sienna Hybrid XSE AWD 7 PASSENGER",
+      "vin": "5TDGSKFC8TS299017",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/eb43fa28b5ff.html",
       "condition": "new",
-      "price": 44084.0,
+      "price": 60319.0,
       "price_currency": "CAD"
     },
     {
@@ -2049,6 +2049,14 @@
       "name": "Toyota2026 RAV4 Plug-in Hybrid SE",
       "vin": "17697440000000000",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/67b1c450e173.html",
+      "condition": "new",
+      "price": 51320.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota2026 RAV4 Plug-in Hybrid SE",
+      "vin": "17689080000000000",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/905a2fcaf68f.html",
       "condition": "new",
       "price": 51320.0,
       "price_currency": "CAD"
