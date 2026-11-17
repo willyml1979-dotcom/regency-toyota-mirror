@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Toyota",
-  "generated_at": "2026-11-17T12:21:17",
-  "vehicle_count": 393,
+  "generated_at": "2026-11-17T13:05:13",
+  "vehicle_count": 419,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1492,108 +1492,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Toyota2026 RAV4 Hybrid XLE",
-      "vin": "2T36CRAV3TC047797",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFLA5DB0TX349724",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/fe144efb82a0.html",
-      "condition": "new",
-      "price": 44084.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
-      "name": "Toyota2026 Camry Hybrid XLE AWD",
-      "vin": "4T1DBADK6TU074402",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/3ad06c66e26f.html",
-      "condition": "new",
-      "price": 48339.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 Camry Hybrid SE Upgrade",
-      "vin": "4T1DAACK7TU795767",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/331730c66b8b.html",
-      "condition": "new",
-      "price": 39739.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2027 C-HR XSE Premium",
-      "vin": "JTMAAAAD1VJ033096",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/cf859add86dc.html",
-      "condition": "new",
-      "price": 56959.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 RAV4 Hybrid XLE",
-      "vin": "2T36CRAV1TW116856",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFLA5DB0TX349724",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/c8b832ba557f.html",
-      "condition": "new",
-      "price": 44084.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
-      "name": "Toyota2027 BZ XLE AWD",
-      "vin": "JTMADAFB0VA016935",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/7dc6b5a613cc.html",
-      "condition": "new",
-      "price": 56293.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2027 Corolla Hybrid LE",
-      "vin": "JTDBCMFE1V3175017",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFLA5DB0TX349724",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/75d28a5242bc.html",
-      "condition": "new",
-      "price": 30948.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
-      "name": "Toyota2026 4Runner Hybrid TRD Pro",
-      "vin": "JTEVB5BR0T5061215",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFLA5DB0TX349724",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/b2739826046c.html",
-      "condition": "new",
-      "price": 84476.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
-      "name": "Toyota2026 RAV4 Plug-in Hybrid XSE",
-      "vin": "JTM7ERAV6TJ043965",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFLA5DB0TX349724",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/15a07362abe1.html",
-      "condition": "new",
-      "price": 58938.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
-      "name": "Toyota2026 RAV4 Plug-in Hybrid SE",
-      "vin": "JTM7ERAVXTJ044584",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFLA5DB0TX349724",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/1acc1b4e674b.html",
-      "condition": "new",
-      "price": 51288.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
-      "name": "Toyota2026 RAV4 Plug-in Hybrid SE",
-      "vin": "JTM7ERAV2TJ045731",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFLA5DB0TX349724",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/f965e3c6472a.html",
-      "condition": "new",
-      "price": 51288.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
-      "name": "Toyota2026 Corolla Cross LE AWD",
-      "vin": "7MUCAABG4TV212787",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFLA5DB0TX349724",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/c5d8a29c8ff2.html",
-      "condition": "new",
-      "price": 34644.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
-      "name": "Toyota2027 Corolla Hatchback SE Upgrade",
-      "vin": "JTNK4MBE3V3278356",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/4b08234f88b4.html",
-      "condition": "new",
-      "price": 31666.0,
-      "price_currency": "CAD"
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFLA5DB0TX349724",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/1332a4a7b2a9.html",
+      "condition": "new"
     },
     {
       "name": "Toyota2026 RAV4 Hybrid XSE",
@@ -3358,6 +3308,240 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Toyota BZ Woodland bZ Woodland",
+      "vin": "JTMBGAHB3TY601313",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/580439b12d29.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota BZ Woodland Premium Package",
+      "vin": "JTMBGAHB6TY608594",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/3b8c2ab8f3a7.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota BZ Woodland bZ Woodland",
+      "vin": "JTMBGAHB4TY608593",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/a72b54645fd7.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota BZ Woodland bZ Woodland",
+      "vin": "JTMBGAHB3TY610285",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/d31e90b91e9f.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota BZ Woodland Premium Package",
+      "vin": "JTMBGAHB0TY612964",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/ce650f17a5f5.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota BZ XLE AWD",
+      "vin": "JTMADAFB6TJ017634",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/a0629ef2e19f.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota C-HR XSE",
+      "vin": "JTMAAAAD9TJ022926",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/d3813b75524a.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Corolla L",
+      "vin": "5YFB4MDE2TP445733",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/0de2e11a4c73.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Corolla L",
+      "vin": "5YFB4MDE1TP490193",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/a8bd69ae3a7b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Corolla SE",
+      "vin": "5YFB4MBE3TP291732",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/d8062587861f.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Crown Signia Limited",
+      "vin": "JTDACAAJ8T3047577",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/b1a8fc936ef2.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Crown Signia",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Crown Signia Limited",
+      "vin": "JTDACAAJ2T3052175",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/b24dfd485916.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Crown Signia",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota GR Corolla CORE",
+      "vin": "SB1ADADE4TE002267",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/c96329f0fca8.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "GR Corolla",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Grand Highlander Hybrid Limited 8-Pass",
+      "vin": "5TDACAB59TS119662",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/b4a65c8de069.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Grand Highlander Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota RAV4 Hybrid XSE",
+      "vin": "2T36CRAV2TW056831",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/a812f36ca4f3.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Hybrid Limited",
+      "vin": "3TYLC5LN4TT055551",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/d56c3e9b8b0e.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Hybrid TRD Off Road Premium",
+      "vin": "3TYLC5LN9TT061376",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/c5355b4e627a.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma Hybrid TRD Off Road Premium",
+      "vin": "3TYLC5LN9TT066819",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/a46a3baa61b8.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma TRD Off Road Plus",
+      "vin": "3TYLB5JN1TT133516",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/27ec8e8be284.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tundra Hybrid LIMITED NIGHTSHADE",
+      "vin": "5TFWC5DB9TX124628",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/789892842416.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tundra TRD OFF ROAD",
+      "vin": "5TFLA5DB0TX349724",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/2683e0933988.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tundra LIMITED NIGHTSHADE",
+      "vin": "5TFWA5EC5TX058849",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/9b48d7e4dcbc.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tundra LIMITED NIGHTSHADE",
+      "vin": "5TFWA5ECXTX060161",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/a54f8b454c19.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tundra LIMITED NIGHTSHADE",
+      "vin": "5TFWA5DBXTX433319",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/343b5b24d969.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Camry Hybrid XLE AWD",
+      "vin": "4T1DBADK6TU074402",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/3ad06c66e26f.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Camry Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Camry Hybrid SE Upgrade",
+      "vin": "4T1DAACK7TU795767",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/331730c66b8b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Camry Hybrid",
+      "condition": "new"
+    },
+    {
       "name": "2026 Volkswagen Taos SEL",
       "vin": "3VV4C7B28TM068761",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/4424a86e8b74.html",
@@ -3367,6 +3551,42 @@
       "condition": "used",
       "price": 38398.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota C-HR XSE Premium",
+      "vin": "JTMAAAAD1VJ033096",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/cf859add86dc.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Toyota BZ XLE FWD",
+      "vin": "JTMAFAEB2VA015362",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/baff2cf7715f.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Toyota BZ XLE AWD",
+      "vin": "JTMADAFB0VA016935",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/7dc6b5a613cc.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Toyota Corolla Hatchback SE Upgrade",
+      "vin": "JTNK4MBE3V3278356",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/4b08234f88b4.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Corolla",
+      "condition": "new"
     }
   ]
 }
