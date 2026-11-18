@@ -1,7 +1,7 @@
 {
   "dealership": "Regency Toyota",
-  "generated_at": "2026-11-18T12:26:56",
-  "vehicle_count": 421,
+  "generated_at": "2026-11-18T13:10:37",
+  "vehicle_count": 422,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -970,20 +970,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Toyota2026 RAV4 Hybrid XLE",
-      "vin": "17401750000000000",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFWC5DB9TX124628",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/40989d18cea9.html",
-      "condition": "new",
-      "price": 43870.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 RAV4 Hybrid XLE",
-      "vin": "17398170000000000",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/b0ff75e4fe67.html",
-      "condition": "new",
-      "price": 43870.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "Toyota2026 RAV4 Hybrid XLE",
@@ -1138,12 +1128,10 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Toyota2026 Highlander Hybrid XLE",
-      "vin": "17283340000000000",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFWC5DB9TX124628",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/9b6f3a1e2822.html",
-      "condition": "new",
-      "price": 57405.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "Toyota2026 Highlander Hybrid XLE",
@@ -1608,100 +1596,22 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Toyota2026 Tacoma TRD Off Road",
-      "vin": "3TYLB5JN9TT158602",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/dafd138775c7.html",
-      "condition": "new",
-      "price": 55113.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 Tacoma TRD Off Road",
-      "vin": "3TYLB5JN4TT158510",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFWC5DB9TX124628",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/649a837fe0f3.html",
-      "condition": "new",
-      "price": 55113.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
-      "name": "Toyota2026 Tacoma TRD Sport",
-      "vin": "3TYLB5JNXTT159189",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/e1e344b4014b.html",
-      "condition": "new",
-      "price": 54513.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 Sienna Hybrid XSE AWD 7 PASSENGER",
-      "vin": "5TDGSKFC8TS297347",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/800ded979b29.html",
-      "condition": "new",
-      "price": 60319.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 Sienna Hybrid XSE TECH AWD 7 PASSENGER",
-      "vin": "5TDGSKFC5TS297533",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/6e2c27ad40d2.html",
-      "condition": "new",
-      "price": 65190.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 Sienna Hybrid PLATINUM AWD 7 PASSENGER",
-      "vin": "5TDGSKFC6TS297931",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/fe33977f1cdc.html",
-      "condition": "new",
-      "price": 75106.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 RAV4 Hybrid XLE",
-      "vin": "2T36CRAVXTW119173",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFWC5DB9TX124628",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/0e2d7ef08b0c.html",
-      "condition": "new",
-      "price": 44084.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
-      "name": "Toyota2026 RAV4 Hybrid XLE",
-      "vin": "2T36CRAV9TW119195",
+      "name": "Toyota New Vehicle Inventoryat Regency Toyota Vancouver",
+      "vin": "5TFWC5DB9TX124628",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/197d9b068628.html",
-      "condition": "new",
-      "price": 44084.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 Sienna Hybrid XSE AWD 7 PASSENGER",
-      "vin": "5TDGSKFC5TS298262",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/b8b0edeb76a4.html",
-      "condition": "new",
-      "price": 60319.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 Sienna Hybrid XSE AWD 7 PASSENGER",
-      "vin": "5TDGSKFC0TS297987",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/7ffdb95ef2ee.html",
-      "condition": "new",
-      "price": 60319.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 Highlander Hybrid PLATINUM",
-      "vin": "5TDEBRCH7TS734948",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/1e098a2ee226.html",
-      "condition": "new",
-      "price": 65175.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "Toyota2026 Sienna Hybrid LE AWD 8 PASSENGER",
-      "vin": "5TDGSKFCXTS297916",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/9073f7d4749d.html",
-      "condition": "new",
-      "price": 54969.0,
-      "price_currency": "CAD"
+      "condition": "new"
     },
     {
       "name": "Toyota2027 Corolla LE",
@@ -3404,6 +3314,15 @@
       "condition": "new"
     },
     {
+      "name": "2026 Toyota Sienna Hybrid XSE TECH AWD 7 PASSENGER",
+      "vin": "5TDGSKFC8TS278877",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/ae6e9f40f87b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna Hybrid",
+      "condition": "new"
+    },
+    {
       "name": "2026 Toyota Tacoma Hybrid Limited",
       "vin": "3TYLC5LN4TT055551",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/d56c3e9b8b0e.html",
@@ -3485,6 +3404,15 @@
       "condition": "new"
     },
     {
+      "name": "2026 Toyota RAV4 Hybrid XLE",
+      "vin": "17398170000000000",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/b0ff75e4fe67.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "condition": "new"
+    },
+    {
       "name": "2026 Toyota Camry Hybrid XLE AWD",
       "vin": "4T1DBADK6TU074402",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/3ad06c66e26f.html",
@@ -3500,6 +3428,87 @@
       "year": 2026,
       "make": "Toyota",
       "model": "Camry Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma TRD Off Road",
+      "vin": "3TYLB5JN9TT158602",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/dafd138775c7.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Tacoma TRD Sport",
+      "vin": "3TYLB5JNXTT159189",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/e1e344b4014b.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Tacoma",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Sienna Hybrid XSE AWD 7 PASSENGER",
+      "vin": "5TDGSKFC8TS297347",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/800ded979b29.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Sienna Hybrid XSE TECH AWD 7 PASSENGER",
+      "vin": "5TDGSKFC5TS297533",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/6e2c27ad40d2.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Sienna Hybrid PLATINUM AWD 7 PASSENGER",
+      "vin": "5TDGSKFC6TS297931",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/fe33977f1cdc.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Sienna Hybrid XSE AWD 7 PASSENGER",
+      "vin": "5TDGSKFC5TS298262",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/b8b0edeb76a4.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Sienna Hybrid XSE AWD 7 PASSENGER",
+      "vin": "5TDGSKFC0TS297987",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/7ffdb95ef2ee.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Highlander Hybrid PLATINUM",
+      "vin": "5TDEBRCH7TS734948",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/1e098a2ee226.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Highlander Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Toyota Sienna Hybrid LE AWD 8 PASSENGER",
+      "vin": "5TDGSKFCXTS297916",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/new/9073f7d4749d.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna Hybrid",
       "condition": "new"
     },
     {
