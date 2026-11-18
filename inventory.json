@@ -1,10 +1,16 @@
 {
   "dealership": "Regency Toyota",
-  "generated_at": "2026-11-17T13:05:13",
-  "vehicle_count": 419,
+  "generated_at": "2026-11-18T12:26:56",
+  "vehicle_count": 421,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Used Inventoryat Regency Toyota Vancouver",
+      "vin": "5YFBPMBE1NP332465",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/6835384009bf.html",
+      "condition": "used"
+    },
     {
       "name": "Used Inventoryat Regency Toyota Vancouver",
       "vin": "5YFBPMBE1NP332465",
@@ -33,6 +39,54 @@
       "name": "Used Inventoryat Regency Toyota Vancouver",
       "vin": "5YFBPMBE1NP332465",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/a5ac367c8862.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Regency Toyota Vancouver",
+      "vin": "5YFBPMBE1NP332465",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/1b5da0caf3b2.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Regency Toyota Vancouver",
+      "vin": "5YFBPMBE1NP332465",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/c78574876d5c.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Regency Toyota Vancouver",
+      "vin": "5YFBPMBE1NP332465",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/0d2b16cd8c8f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Regency Toyota Vancouver",
+      "vin": "5YFBPMBE1NP332465",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/61193068846f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Regency Toyota Vancouver",
+      "vin": "5YFBPMBE1NP332465",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/70fd6e4e40e0.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Regency Toyota Vancouver",
+      "vin": "5YFBPMBE1NP332465",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/e5b2921722bd.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Regency Toyota Vancouver",
+      "vin": "5YFBPMBE1NP332465",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/801570f01b6b.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used Inventoryat Regency Toyota Vancouver",
+      "vin": "5YFBPMBE1NP332465",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/59869de1e559.html",
       "condition": "used"
     },
     {
@@ -2349,17 +2403,6 @@
       "condition": "used"
     },
     {
-      "name": "2017 Acura MDXElite AWD",
-      "vin": "5FRYD4H88HB506700",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/c78574876d5c.html",
-      "year": 2017,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "used",
-      "price": 26398.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Acura RDXBase",
       "vin": "5J8TB4H73HL809214",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/95c4739b7194.html",
@@ -2368,17 +2411,6 @@
       "model": "RDX",
       "condition": "used",
       "price": 23398.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Lexus IS 300 AWD F SPORT 2",
-      "vin": "JTHCM1D2XH5022426",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/801570f01b6b.html",
-      "year": 2017,
-      "make": "Lexus",
-      "model": "IS",
-      "condition": "used",
-      "price": 32493.0,
       "price_currency": "CAD"
     },
     {
@@ -2402,17 +2434,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Volkswagen Golf R Base",
-      "vin": "WVWWF7AU6HW177454",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/e5b2921722bd.html",
-      "year": 2017,
-      "make": "Volkswagen",
-      "model": "Golf R",
-      "condition": "used",
-      "price": 30493.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2018 Audi A5 QuattroPrestige",
       "vin": "WAUCNCF53JA010534",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/e313ca3731d3.html",
@@ -2424,15 +2445,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Audi Q5 Progressiv",
+      "name": "2018 Audi Q5 Progressiv Progressiv",
       "vin": "WA1ENAFY0J2160213",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/d22c3130a1f9.html",
       "year": 2018,
       "make": "Audi",
       "model": "Q5",
-      "condition": "used",
-      "price": 24493.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2018 BMW 330eBase",
@@ -2443,17 +2462,6 @@
       "model": "330eBase",
       "condition": "used",
       "price": 19398.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Ford F-150 XLT",
-      "vin": "1FTFW1EG9JKF46743",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/59869de1e559.html",
-      "year": 2018,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used",
-      "price": 32493.0,
       "price_currency": "CAD"
     },
     {
@@ -2474,9 +2482,16 @@
       "year": 2018,
       "make": "Nissan",
       "model": "Murano",
-      "condition": "used",
-      "price": 17998.0,
-      "price_currency": "CAD"
+      "condition": "used"
+    },
+    {
+      "name": "2018 Toyota Rav4 Hybrid XLE Hybrid LE+",
+      "vin": "JTMRJREV2JD257636",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/d810e5d7de5b.html",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
+      "condition": "used"
     },
     {
       "name": "2019 BMW X2xDrive28i",
@@ -2607,28 +2622,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Lexus RX 450h AWD",
-      "vin": "2T2JGMDA0NC085909",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/61193068846f.html",
-      "year": 2022,
-      "make": "Lexus",
-      "model": "RX",
-      "condition": "used",
-      "price": 54398.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Mazda CX-30 2.5 Turbo",
-      "vin": "3MVDMBDY8NM412638",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/70fd6e4e40e0.html",
-      "year": 2022,
-      "make": "Mazda",
-      "model": "CX-30",
-      "condition": "used",
-      "price": 29998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Toyota Corolla LE CVT",
       "vin": "5YFBPMBE1NP332465",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/f07e83d4966b.html",
@@ -2671,15 +2664,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Infiniti QX50Sensory",
+      "name": "2023 Infiniti QX50Sensory Sensory",
       "vin": "3PCAJ5EB4PF103989",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/4860262666ca.html",
       "year": 2023,
       "make": "Infiniti",
       "model": "QX50",
-      "condition": "used",
-      "price": 34398.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2023 Lexus RX 500h RX 500h",
@@ -2702,17 +2693,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mazda Cx-5  GS",
-      "vin": "JM3KFBCM0P0163248",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/0d2b16cd8c8f.html",
-      "year": 2023,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 28600.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Mazda CX-502.5 Turbo",
       "vin": "7MMVABDY0PN109036",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/15c2a6d027bd.html",
@@ -2732,17 +2712,6 @@
       "model": "Mazda3",
       "condition": "used",
       "price": 25398.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Subaru Forester Base",
-      "vin": "JF2SKECC4PH477680",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/1b5da0caf3b2.html",
-      "year": 2023,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 29200.0,
       "price_currency": "CAD"
     },
     {
@@ -2839,15 +2808,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Volvo Xc90 T8 Recharge Ultimate",
+      "name": "2023 Volvo Xc90 T8 Recharge Ultimate Ultimate Bright Theme",
       "vin": "YV4H60CA7P1923874",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/42da8b422aa4.html",
       "year": 2023,
       "make": "Volvo",
-      "model": "XC90",
-      "condition": "used",
-      "price": 54200.0,
-      "price_currency": "CAD"
+      "model": "Xc90 T8 Recharge Ultimate Ultimate Bright Theme",
+      "condition": "used"
     },
     {
       "name": "2024 Honda CivicEX",
@@ -2901,15 +2868,13 @@
       "condition": "used"
     },
     {
-      "name": "2024 Lexus NX 350",
+      "name": "2024 Lexus NX 350 Ultra Premium",
       "vin": "2T2GGCEZ2RC045121",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/5ad608c9ec07.html",
       "year": 2024,
       "make": "Lexus",
       "model": "NX",
-      "condition": "used",
-      "price": 50398.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2024 Lexus UX 250h AWD UX 250h",
@@ -2968,6 +2933,15 @@
       "condition": "used"
     },
     {
+      "name": "2024 Toyota RAV4 SE Hybrid SE",
+      "vin": "2T34WRFV3RW191610",
+      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/86b6d18fdfeb.html",
+      "year": 2024,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used"
+    },
+    {
       "name": "2024 Toyota Tacoma Double Cab AT",
       "vin": "3TYLB5JN4RT051272",
       "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/d92484e760b9.html",
@@ -2994,17 +2968,6 @@
       "model": "Tundra",
       "condition": "used",
       "price": 50493.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Toyota Tacoma HV Double Cab",
-      "vin": "3TYLC5LNXRT002779",
-      "url": "https://willyml1979-dotcom.github.io/regency-toyota-mirror/used/6835384009bf.html",
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Tacoma",
-      "condition": "used",
-      "price": 63900.0,
       "price_currency": "CAD"
     },
     {
@@ -3181,9 +3144,7 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Crown Signia",
-      "condition": "used",
-      "price": 53398.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2025 Toyota RAV4 XLE AWD",
